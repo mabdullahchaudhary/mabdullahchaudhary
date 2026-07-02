@@ -27,7 +27,7 @@
     <td width="100%" style="padding: 20px;">
       <h2>Hi, I'm Abdullah! 👋</h2>
       <p style="font-size: 18px; line-height: 1.6;">
-        I am a 22-year-old developer from Lahore, Pakistan, currently in my 6th semester of a BS in Information Technology at Superior University. I love building things from scratch, understanding how systems work under the hood, and solving real-world problems.
+        I am a 22-year-old developer from Lahore, Pakistan, currently in my 7th semester of a BS in Information Technology at Superior University. I love building things from scratch, understanding how systems work under the hood, and solving real-world problems.
       </p>
       <br/>
       <h3>⚡ Quick Facts:</h3>
