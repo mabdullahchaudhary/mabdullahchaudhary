@@ -1,169 +1,75 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8A2BE2,100:0d1117&height=280&section=header&text=M.%20Abdullah%20Chaudhary&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=Backend%20Developer%20%7C%20CEH%20%7C%20System%20Thinker&descAlignY=68&descSize=24&descColor=ffffff" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&height=60&lines=Hi!+I+write+naked,+clean,+and+simple+code.;8th+Semester+BSIT+Student+in+Lahore;Certified+Ethical+Hacker+(CEH);Transitioning+to+Go+and+Modern+C%2B%2B;Creator+of+%40eazypizycoders" alt="Typing Headline" />
-</div>
+# 👨‍💻 ABDULLAH CHAUDHARY
 
-<br/>
+<p style="font-size: 18px; color: #0EA5E9; font-weight: 500;">Backend Engineer | AI & Python Specialist | System Thinker</p>
 
-<div align="center">
-  <a href="https://mabdullahchaudhary.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&borderColor=8A2BE2" /></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/eazypizycoders"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&borderColor=8A2BE2" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/abdu11ah.chaudhary/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&borderColor=8A2BE2" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:mhabdullah000@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&borderColor=8A2BE2" /></a>
-</div>
-
-<br/><hr style="border: 1px solid #8A2BE2;"/><br/>
-
-<h1 align="center">🧠 The Developer Behind The Screen</h1>
-
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="100%" style="padding: 20px;">
-      <h2>Hi, I'm Abdullah! 👋</h2>
-      <p style="font-size: 18px; line-height: 1.6;">
-        I am a 22-year-old developer from Lahore, Pakistan, currently in my 7th semester of a BS in Information Technology at Superior University. I love building things from scratch, understanding how systems work under the hood, and solving real-world problems.
-      </p>
-      <br/>
-      <h3>⚡ Quick Facts:</h3>
-      <ul style="font-size: 16px; line-height: 1.8;">
-        <li>🛡️ <b>Security First:</b> I am a <b>Certified Ethical Hacker (CEH)</b>. Security isn't an afterthought; it's built into my code.</li>
-        <li>💻 <b>The "Naked Code" Rule:</b> I don't write paragraphs of comments. I believe code should be so clean and logical that it explains itself.</li>
-        <li>🎯 <b>Future Ambitions:</b> Aiming to serve in high-level IT roles for the Armed Forces, while building a million-dollar tech enterprise.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/><hr style="border: 1px solid #8A2BE2;"/><br/>
-
-<h1 align="center">🗺️ My Tech Journey</h1>
-
-<div align="center">
-  <p style="font-size: 18px; color: #8b949e;"><i>From my first line of code to architecting SaaS platforms.</i></p>
-</div>
-
-<table align="center" width="90%">
-  <tr>
-    <td width="25%" align="center">
-      <h2>🌱<br/>Phase 1</h2>
-      <b>The Foundation</b><br/>
-      MERN Ecosystem Mastery.
-    </td>
-    <td width="25%" align="center">
-      <h2>🛡️<br/>Phase 2</h2>
-      <b>Security Pivot</b><br/>
-      CEH Certification & SecOps.
-    </td>
-    <td width="25%" align="center">
-      <h2 style="color: #8A2BE2;">🚀<br/>Phase 3 (Now)</h2>
-      <b>Performance</b><br/>
-      Go, Modern C++, & AI SaaS.
-    </td>
-    <td width="25%" align="center">
-      <h2>💼<br/>Phase 4</h2>
-      <b>Enterprise</b><br/>
-      Defense IT & Architecture.
-    </td>
-  </tr>
-</table>
-
-<br/><hr style="border: 1px solid #8A2BE2;"/><br/>
-
-<h1 align="center">🛠️ The Engineering Arsenal</h1>
-<br/>
-
-<div align="center">
-  <h2>🌐 Frontend & UI</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7" />
-  
-  <br/><br/>
-  
-  <h2>⚙️ Backend & Deep Systems</h2>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,cpp,django,python&theme=dark&perline=6" />
-  
-  <br/><br/>
-
-  <h2>🗄️ Database & DevOps</h2>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,docker,linux,git,github&theme=dark&perline=7" />
-</div>
-
-<br/><hr style="border: 1px solid #8A2BE2;"/><br/>
-
-<h1 align="center">🔥 Active Development</h1>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="100%" style="padding: 20px;">
-      <h2>🤖 AI Receptionist SaaS</h2>
-      <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILD-8A2BE2?style=for-the-badge&labelColor=0d1117" />
-      <br/><br/>
-      <p style="font-size: 18px; line-height: 1.6;">
-        Developing a high-performance voice AI agent for small businesses. Using <b>Vapi, Next.js, and Go/Node microservices</b> to handle real-time customer conversations automatically.
-        <br/><br/>
-        <b>Vision:</b> Open-sourcing the core logic for the global community.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/><hr style="border: 1px solid #8A2BE2;"/><br/>
-
-<h1 align="center">🎙️ Broadcasting</h1>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/YouTube_Channel-eazypizycoders-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1000&color=8b949e&center=true&vCenter=true&width=800&height=50&lines=I+write+naked,+clean,+and+simple+code.;Architecting+scalable+Python+backends.;Integrating+LLMs+%26+Generative+AI.;8th+Semester+BSIT+Student." alt="Typing Headline" />
 
 <br/>
 
-<div align="center" style="font-size: 18px; line-height: 1.6;">
-  Helping students escape "tutorial hell" by teaching deep logic and system design.
-</div>
-
-<br/><hr style="border: 1px solid #8A2BE2;"/><br/>
-
-<h1 align="center">📊 Development Stats</h1>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mabdullahchaudhary&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Live Activity Graph" />
-</div>
+<a href="https://abdullahchaudhary.me/"><img src="https://img.shields.io/badge/Portfolio-1f2328?style=flat&logo=vercel&logoColor=white" /></a>
+<a href="https://pk.linkedin.com/in/abdullahchaudharyfullstackengineer"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat&logo=linkedin&logoColor=0077b5" /></a>
+<a href="https://github.com/mabdullahchaudhary"><img src="https://img.shields.io/badge/GitHub-1f2328?style=flat&logo=github&logoColor=white" /></a>
+<a href="https://api.whatsapp.com/send/?phone=923164994643&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-1f2328?style=flat&logo=whatsapp&logoColor=25D366" /></a>
+<a href="mailto:abdullah.aakram@outlook.com"><img src="https://img.shields.io/badge/Email-1f2328?style=flat&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.facebook.com/profile.php?id=61553654722732"><img src="https://img.shields.io/badge/Facebook-1f2328?style=flat&logo=facebook&logoColor=1877F2" /></a>
+<a href="https://www.instagram.com/abdu11ah.akram"><img src="https://img.shields.io/badge/Instagram-1f2328?style=flat&logo=instagram&logoColor=E4405F" /></a>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mabdullahchaudhary&background=0d1117&hide_border=true&stroke=8A2BE2&ring=ffffff&fire=8A2BE2&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="98%" />
-</div>
+### 👨‍💻 The Developer Behind The Screen
 
-<br/><hr style="border: 1px solid #8A2BE2;"/><br/>
+Hi, I'm Abdullah, a Backend Engineer from Lahore, Pakistan (8th Semester BSIT).
 
-<h1 align="center">🦅 Mindset & Philosophy</h1>
+🐍 **Core Focus:** Designing robust backend architectures using Python, Django, and FastAPI.<br/>
+🤖 **AI Integration:** Actively integrating Generative AI & LLMs into scalable web platforms.<br/>
+⚡ **Philosophy:** Writing "Naked Code"—exceptionally clean, logically structured, and self-explanatory.
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" style="padding: 20px;">
-      <h2>On Engineering ⚙️</h2>
-      <blockquote>
-        <i style="font-size: 16px;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
-      </blockquote>
-    </td>
-    <td width="50%" align="center" style="padding: 20px;">
-      <h2>On Life 🏛️</h2>
-      <blockquote>
-        <i style="font-size: 16px;">"You have power over your mind - not outside events. Realize this, and you will find strength."</i>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+<br/>
+
+### 🛠️ The Engineering Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,mongodb,postgres,sqlite&theme=dark&perline=8" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,react,nextjs,tailwind&theme=dark&perline=8" />
+
+<br/>
+
+### 🎓 Enterprise FYP (Final Year Project)
+
+<img src="https://img.shields.io/badge/Status-Active_Build-0EA5E9?style=flat&color=0EA5E9" />
+
+🏢 **The Platform:** Architecting a massive, enterprise-level open-source platform for my university.<br/>
+📊 **Management:** Managed via a full GitHub Organization with advanced project tracking.<br/>
+💡 **The Concept:** A hybrid of W3Schools and LeetCode, providing interactive coding environments.<br/>
+⚙️ **The Stack:** Built on a highly scalable Next.js frontend and an advanced Python backend.
+
+<br/>
+
+### 🧠 Generative AI & LLMs
+
+<img src="https://img.shields.io/badge/Status-Active_Research-0EA5E9?style=flat&color=0EA5E9" />
+
+🚀 **The Future:** My core focus is now on AI Agents, Generative AI, and Large Language Models.<br/>
+💡 **The Goal:** Exploring innovative ways to power intelligent, context-aware applications and systems.
+
+<br/>
+
+### 🤝 Let's Collaborate
+
+🌍 Highly active in the open-source community and ready for new challenges.<br/>
+🏗️ Open to backend architecture overhauls, open-source initiatives, and AI product ideas.<br/>
+📩 Let's build something great together.
+
+<br/>
+
+<a href="mailto:abdullah.aakram@outlook.com"><img src="https://img.shields.io/badge/Drop_an_Email-0EA5E9?style=flat&logo=gmail&logoColor=white&color=0EA5E9" /></a>
+&nbsp;
+<a href="https://pk.linkedin.com/in/abdullahchaudharyfullstackengineer"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&color=0077b5" /></a>
 
 <br/><br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great.&fontSize=18&fontColor=8A2BE2" width="100%" />
+<p style="color: #8b949e;"><i>"First, solve the problem. Then, write the code."</i></p>
+
 </div>
