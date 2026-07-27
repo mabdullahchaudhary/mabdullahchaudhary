@@ -2,7 +2,7 @@
 
 # 👨‍💻 ABDULLAH CHAUDHARY
 
-<p style="font-size: 18px; color: #0EA5E9; font-weight: 500;">Backend Engineer | AI & Python Specialist | System Thinker</p>
+<p style="font-size: 18px; color: #0EA5E9; font-weight: 500;">Backend Developer | AI & Python Developer | System Developer</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1000&color=8b949e&center=true&vCenter=true&width=800&height=50&lines=I+write+naked,+clean,+and+simple+code.;Architecting+scalable+Python+backends.;Integrating+LLMs+%26+Generative+AI.;8th+Semester+BSIT+Student." alt="Typing Headline" />
 
